@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "cstdlib": "c",
+        "__tree": "c",
+        "map": "c",
+        "format": "c",
+        "util.h": "c",
+        "constants.h": "c",
+        "stdio.h": "c"
+    }
+}
